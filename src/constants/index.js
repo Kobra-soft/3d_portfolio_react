@@ -172,27 +172,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Jack proved me wrong.",
-    name: "Sara Lee",
+      "We thought it was impossible to make a website as beautiful as our product, however Kobra-soft proved us wrong. Thank you :)",
+    name: "Sarah Smith",
     designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    company: "Phoenix Software Corp",
+    image: "https://randomuser.me/api/portraits/women/68.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Jack does.",
-    name: "Chris Brown",
+      "I've never met a web development company that truly cares about its clients' success. We highly recommend them; it was a 5-star service!",
+    name: "Stephan Manos",
     designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    company: "Outsource Ltd",
+    image: "https://randomuser.me/api/portraits/men/66.jpg",
   },
   {
     testimonial:
-      "After Jack optimized our website, our traffic increased by 50%. We can't thank him enough!",
-    name: "Lisa Wang",
+      "Kobra-soft optimised our website for web & mobile devices, our traffic increased by over 50%. We can't thank them enough!",
+    name: "Chenguang Yun",
     designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    company: "Swift Media Solutions",
+    image: "https://randomuser.me/api/portraits/women/90.jpg",
   },
 ];
 
